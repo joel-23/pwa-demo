@@ -1,21 +1,46 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React Base PWA",
+  "name": "React Base PWA",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "./logo72",
+      "sizes": "72x72",
+      "type": "image/png"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "./logo96",
+      "sizes": "96x96",
+      "type": "image/png"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "./logo128",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./logo144",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "./logo152",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "./logo192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./logo384",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "./logo512",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
